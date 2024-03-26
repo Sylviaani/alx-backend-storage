@@ -36,4 +36,4 @@ if __name__ == "__main__":
         }}
     ])
     for ip in top_ips:
-        print(f"\t{ip.get('ip')}: {ip.get('count')}")`
+        print(f"\t{ip.get('ip')}: {ip.get('count')}")
